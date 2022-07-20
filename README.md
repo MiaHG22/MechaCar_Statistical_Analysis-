@@ -11,6 +11,7 @@ Vehicle length and ground clearance variables repsent non-random amounts of vari
 The mean is 1498.98 and the population mean is 1500.
 
 <img width="352" alt="total_summary" src="https://user-images.githubusercontent.com/102785000/180095510-1108c2b2-ebb2-42f4-a4e3-2bc420e9f6d3.png">
+<img width="493" alt="t_test_lots" src="https://user-images.githubusercontent.com/102785000/180096025-9f708ab0-5da9-4051-b08e-f56dfed76080.png">
 
 The variance in Lot 3 is too high to meet the desgin specifications.
 ## T-test on suspension coils
